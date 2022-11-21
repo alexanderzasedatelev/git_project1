@@ -1,1 +1,1 @@
-print(12)
+print("My first Git program!!")
